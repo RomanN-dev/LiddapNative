@@ -1,0 +1,1 @@
+export default 'https://api.mapbox.com/styles/v1/mapbox/streets-v10/static/pin-l+9524A1(34.799237,31.962784)/34.799237,31.962784,16/auto/500x300?&access_token=pk.eyJ1IjoiYW5kcmV5Ymxpbm9mZiIsImEiOiJjam9ibm5tYTMwZTVwM3JsN242eXBsbWJkIn0.WDYPDnr34YPxULOn6beKoA'
